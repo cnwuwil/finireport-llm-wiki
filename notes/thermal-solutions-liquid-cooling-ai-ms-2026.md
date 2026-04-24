@@ -8,6 +8,8 @@ updated: 2026-04-22
 source: sources/quant-reports/AI液冷市场扩大，热管理解决方案受益.md
 broker: Morgan Stanley
 date: 2026-04-15
+entities: [avc, fositek]
+topics: [agentic-ai-infra]
 ---
 
 # AI液冷TAM扩大：Vera Rubin POD覆盖全机架，AVC/Fositek OW（Morgan Stanley）

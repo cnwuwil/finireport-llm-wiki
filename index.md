@@ -1,6 +1,6 @@
 # Wiki Index
 
-_最后更新：2026-04-23（Phase 1+2 管理规则重构完成）_
+_最后更新：2026-04-24（Lint 修复：32 孤儿 note frontmatter 补全、删除重复 note、entity/topic Sources 回链完成）_
 
 > 导航顺序：**Topics（主题合成）→ Entities（实体库）→ Concepts（方法/技术）→ Notes（来源摘要）→ Sources（原始文件）**。
 > Topic / Entity 页是"已经合成过的答案"，**优先读**；note 只在需要细节时下钻。

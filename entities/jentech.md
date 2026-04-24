@@ -4,7 +4,7 @@ type: entity
 domain: invest
 tags: [散热器, heat-spreader, AI-GPU, 先进封装, 台湾硬件, 3653TW]
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-24
 ---
 
 # Jentech Precision Industrial Co. 精成科技 (3653.TW)
@@ -35,6 +35,6 @@ updated: 2026-04-21
 - 技术壁垒高：特种金属加工、精密复合材料，进入门槛极高
 - 2024-28E EPS CAGR ~60%，受益于每颗 GPU 价值量（content value）持续提升
 
-## Appearances
+## Sources
 
-- [下一代AI GPU散热器价值量提升（JPM 2026-04）](../notes/jentech-ai-gpu-heat-spreader-jpm-2026.md)
+- 2026-04-20 · JPM · [Jentech 下一代 AI GPU 散热器价值量提升](../notes/jentech-ai-gpu-heat-spreader-jpm-2026.md)

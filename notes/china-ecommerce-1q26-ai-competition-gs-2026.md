@@ -8,6 +8,8 @@ updated: 2026-04-22
 source: sources/quant-reports/中国电商行业一季度增长放缓，关注平台竞争与AI影响.md
 broker: Goldman Sachs
 date: 2026-04-17
+entities: [alibaba, jd, pdd]
+topics: []
 ---
 
 # 中国电商行业一季度增长放缓，关注平台竞争与AI影响（Goldman Sachs）

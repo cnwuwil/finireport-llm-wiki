@@ -5,6 +5,8 @@ domain: invest
 tags: [china-industrials, ai-infra, embodied-ai, pcb, ccl, humanoid-robot, citi, barbell-strategy]
 created: 2026-04-23
 updated: 2026-04-23
+entities: []
+topics: [agentic-ai-infra, advanced-packaging]
 ---
 
 # 中国工业策略再审视：更看好AI基础设施与具身AI

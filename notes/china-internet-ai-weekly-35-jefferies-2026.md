@@ -8,6 +8,8 @@ updated: 2026-04-22
 source: sources/quant-reports/互联网AI：模型密集发布与平台涨价持续.pdf
 broker: Jefferies
 date: 2026-04-20
+entities: [alibaba, tencent, baidu]
+topics: []
 ---
 
 # 互联网AI：模型密集发布与平台涨价持续（AI Series #35）

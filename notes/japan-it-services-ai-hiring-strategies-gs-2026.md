@@ -5,6 +5,8 @@ domain: invest
 tags: [日本IT, BayCurrent, SHIFT, Money-Forward, AI颠覆, SaaS, 软件测试, 咨询, Goldman-Sachs]
 created: 2026-04-21
 updated: 2026-04-21
+entities: [baycurrent, shift, money-forward]
+topics: [agentic-ai-infra]
 ---
 
 # 日本IT服务业AI时代招聘策略（Goldman Sachs）

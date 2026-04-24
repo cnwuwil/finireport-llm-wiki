@@ -5,6 +5,8 @@ domain: invest
 tags: [mcu, semiconductor, espressif, nuvoton, gigadevice, edge-ai, memory, morgan-stanley, greater-china]
 created: 2026-04-23
 updated: 2026-04-23
+entities: [espressif, nuvoton, gigadevice]
+topics: [memory-supercycle-2026]
 ---
 
 # MCU：周期触底但复苏乏力，边缘AI与内存价格是关键变量

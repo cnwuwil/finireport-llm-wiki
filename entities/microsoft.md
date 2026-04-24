@@ -4,7 +4,7 @@ type: entity
 domain: invest
 tags: [微软, Microsoft, MSFT, Azure, Copilot, M365, 云计算, GenAI, AI-基础设施]
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-24
 ---
 
 # Microsoft Corporation（MSFT）
@@ -38,6 +38,8 @@ updated: 2026-04-21
 | Capex（含资本租赁） | ~$143.9bn |
 | M365 Copilot 付费席位 | 1500万（F2Q26） |
 
-## Appearances
+## Sources
 
-- [notes/microsoft-3q26-preview-copilot-azure-ms-2026](../notes/microsoft-3q26-preview-copilot-azure-ms-2026.md) — Morgan Stanley 3Q26 业绩前瞻（OW PT $650）
+- 2026-04-20 · MS · [Microsoft 3Q26 前瞻：Azure/Copilot/Capex](../notes/microsoft-3q26-preview-copilot-azure-ms-2026.md)
+- 2026-04-15 · MS · [AI 基础设施表外承诺与杠杆风险](../notes/ai-infra-off-balance-sheet-leverage-ms-2026.md)
+- 2026-04-14 · Bernstein · [GenAI 全球软件 5 年展望](../notes/genai-global-software-future-bernstein-2026.md)

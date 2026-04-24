@@ -5,6 +5,8 @@ domain: invest
 tags: [Dell, SMCI, AI服务器, 数据中心, 硬件, Citi-Research, 供应链]
 created: 2026-04-21
 updated: 2026-04-21
+entities: [dell, supermicro]
+topics: [agentic-ai-infra]
 ---
 
 # Dell & SMCI：AI基础设施需求加速（Citi Research）

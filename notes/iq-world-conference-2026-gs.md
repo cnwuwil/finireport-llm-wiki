@@ -5,6 +5,8 @@ domain: invest
 tags: [爱奇艺, IQ, 长视频, AI降本, IP, AIGC, 出海, Goldman-Sachs]
 created: 2026-04-21
 updated: 2026-04-21
+entities: [iqiyi]
+topics: []
 ---
 
 # 爱奇艺 2026 世界大会要点（GS Research）

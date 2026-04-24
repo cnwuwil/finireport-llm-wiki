@@ -8,6 +8,8 @@ updated: 2026-04-22
 source: sources/quant-reports/腾讯控股：游戏与广告业务韧性足，AI投入影响短期利润.md
 broker: Citi Research
 date: 2026-04-19
+entities: [tencent]
+topics: []
 ---
 
 # 腾讯控股1Q26前瞻：游戏与广告韧性，AI投入压制短期利润（Citi）

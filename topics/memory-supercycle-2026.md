@@ -5,7 +5,7 @@ domain: invest
 tags: [存储, DRAM, NAND, NOR Flash, HBM, Sandisk, Macronix, Micron, 内存周期, AI推理, 数据中心]
 status: active
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-04-24
 ---
 
 # 2026 存储超级周期：DRAM / NAND / NOR / HBM 全线上行
@@ -99,6 +99,8 @@ updated: 2026-04-23
 - 2026-04-19 · MS · [AI Agent 全球：DRAM +15-45 EB](../notes/ai-agent-rise-global-infra-ms-2026.md)
 - 2026-04-19 · JPM · [数据中心观察：GPU 租赁 + 存储合约价](../notes/datacenter-watch-gpu-rental-memory-jpm-2026.md)
 - 2026-04-18 · BofA · [Sandisk NAND 供给紧张](../notes/sandisk-nand-supply-tight-asp-bofa-2026.md)
+- 2026-04-17 · JPM · [半导体 1Q26 前瞻（含 DRAM/HBM）](../notes/semis-1q26-preview-jpm-2026.md)
+- 2026-04-23 · MS · [MCU 周期触底但复苏乏力](../notes/mcu-cycle-bottoming-edge-ai-ms-2026.md)
 
 ## Related
 

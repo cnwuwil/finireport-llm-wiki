@@ -5,6 +5,8 @@ domain: invest
 tags: [Spotify, SPOT, 流媒体, 广告, AI, 业绩前瞻, Goldman-Sachs]
 created: 2026-04-21
 updated: 2026-04-21
+entities: [spotify]
+topics: []
 ---
 
 # Spotify Q1 2026 业绩前瞻（GS Research）

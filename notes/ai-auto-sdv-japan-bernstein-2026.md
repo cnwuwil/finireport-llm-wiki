@@ -8,6 +8,8 @@ updated: 2026-04-22
 source: sources/quant-reports/人工智能重塑汽车业：从自动驾驶到软件定义汽车的增值路径.pdf
 broker: Bernstein
 date: 2026-04-15
+entities: [toyota, honda, nissan]
+topics: []
 ---
 
 # AI重塑汽车业：从自动驾驶到软件定义汽车的增值路径

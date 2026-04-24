@@ -8,6 +8,8 @@ updated: 2026-04-22
 source: sources/quant-reports/AI重塑软件开发格局：更多软件与开发者需求演变.md
 broker: Morgan Stanley
 date: 2026-04-16
+entities: [atlassian, gitlab, jfrog]
+topics: [agentic-ai-infra]
 ---
 
 # AI重塑软件开发格局：更多软件与开发者需求演变（Morgan Stanley）

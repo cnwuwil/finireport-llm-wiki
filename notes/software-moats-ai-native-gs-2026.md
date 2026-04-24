@@ -8,6 +8,8 @@ updated: 2026-04-22
 source: sources/quant-reports/软件护城河再审视：重心转移与AI原生机遇.md
 broker: Goldman Sachs
 date: 2026-04-16
+entities: [salesforce, crowdstrike, guidewire, rubrik]
+topics: [agentic-ai-infra]
 ---
 
 # 软件护城河再审视IV：重心转移与AI原生机遇

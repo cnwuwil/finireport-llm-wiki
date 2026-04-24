@@ -8,6 +8,8 @@ updated: 2026-04-22
 source: sources/quant-reports/生成式AI对全球软件行业的长远影响与展望.md
 broker: Bernstein
 date: 2026-04-14
+entities: [microsoft]
+topics: [agentic-ai-infra]
 ---
 
 # 生成式AI对全球软件行业的长远影响与展望

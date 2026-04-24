@@ -5,7 +5,7 @@ domain: invest
 tags: [Agentic AI, CPU TAM, DRAM, ABF基板, Aspeed, BMC, AI Agent, 算力架构, 数据中心, 基础设施]
 status: active
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-04-24
 ---
 
 # Agentic AI 基础设施：算力架构重塑与全链条受益
@@ -81,6 +81,24 @@ AI 从"生成式"到"自主行动（Agentic）"的转型，**不仅仅是软件�
 - 2026-04-19 · MS · [大中华硬件 Agentic AI 受益者](../notes/agentic-ai-hardware-gc-ms-2026.md)
 - 2026-04-19 · MS · [云半导体非 GPU 需求](../notes/cloud-semis-non-gpu-agentic-ai-ms-2026.md)
 - 2026-04-17 · Citi · [第四届 AI 峰会纪要](../notes/citi-ai-summit-tech-invest-outlook-2026.md)
+- 2026-04-20 · Citi · [Dell & SMCI AI 基础设施需求加速](../notes/dell-smci-ai-infra-citi-2026.md)
+- 2026-04-20 · MS · [Microsoft 3Q26 前瞻：Azure/Copilot/Capex](../notes/microsoft-3q26-preview-copilot-azure-ms-2026.md)
+- 2026-04-23 · JPM · [ServiceNow 1Q26 AI 应用超越客服](../notes/servicenow-1q26-ai-broadening-jpm-2026.md)
+- 2026-04-21 · JPM · [SEMCO MLCC/基板双升周期](../notes/samsung-electro-mechanics-mlcc-upcycle-jpm-2026.md)
+- 2026-04-16 · MS · [大中华科技硬件：宏观不确定性与 AI 硬件](../notes/greater-china-tech-hardware-macro-ai-ms-2026.md)
+- 2026-04-15 · MS · [AI 液冷 TAM 扩大：Vera Rubin POD](../notes/thermal-solutions-liquid-cooling-ai-ms-2026.md)
+- 2026-04-15 · MS · [AI 基础设施表外承诺与杠杆风险](../notes/ai-infra-off-balance-sheet-leverage-ms-2026.md)
+- 2026-04-20 · MS · [AI 与劳动生产率：产出增长而非裁员](../notes/ai-labor-productivity-output-growth-ms-2026.md)
+- 2026-04-23 · Citi · [中国工业 AI 基础设施与具身 AI](../notes/china-industrials-ai-infra-embodied-ai-citi-2026.md)
+- 2026-04-23 · GS · [PCB/CCL 涨价与 AI 需求驱动](../notes/pcb-ccl-price-hike-ai-demand-gs-2026.md)
+- 2026-04-23 · Jefferies · [PCB/CCL AI 受益初始覆盖](../notes/pcb-ccl-ai-beneficiaries-initiation-jefferies-2026.md)
+- 2026-04-16 · GS · [软件护城河 IV：AI 原生机遇](../notes/software-moats-ai-native-gs-2026.md)
+- 2026-04-14 · Bernstein · [GenAI 全球软件行业 5 年展望](../notes/genai-global-software-future-bernstein-2026.md)
+- 2026-04-16 · MS · [AI 重塑软件开发格局](../notes/ai-software-development-reshape-ms-2026.md)
+- 2026-04-15 · UBS · [GitLab AI 叙事拐点](../notes/gitlab-ai-narrative-inflection-ubs-2026.md)
+- 2026-04-21 · GS · [Dynatrace/Elastic 可观测性与搜索平台](../notes/dynatrace-elastic-observability-ai-gs-2026.md)
+- 2026-04-20 · GS · [日本 IT 服务业 AI 招聘策略](../notes/japan-it-services-ai-hiring-strategies-gs-2026.md)
+- 2026-04-15 · GS · [GS 私人软件互联网会议纪要](../notes/private-software-internet-conf-gs-2026.md)
 
 ## Related
 

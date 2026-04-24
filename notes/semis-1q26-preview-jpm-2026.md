@@ -8,6 +8,8 @@ updated: 2026-04-22
 source: sources/quant-reports/半导体行业展望：AI需求持续，周期性复苏与结构性增长支撑行业.pdf
 broker: J.P. Morgan
 date: 2026-04-17
+entities: [tsmc, nvda, asml]
+topics: [advanced-packaging, memory-supercycle-2026]
 ---
 
 # 半导体行业 1Q26 前瞻：AI需求持续，周期性复苏与结构性增长

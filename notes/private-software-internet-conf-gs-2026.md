@@ -8,6 +8,8 @@ updated: 2026-04-22
 source: sources/quant-reports/私人软件与互联网会议纪要：生成式AI，创作者经济与自动驾驶趋.md
 broker: Goldman Sachs
 date: 2026-04-15
+entities: []
+topics: [agentic-ai-infra]
 ---
 
 # 高盛私人软件与互联网会议纪要：生成式AI、创作者经济与自动驾驶

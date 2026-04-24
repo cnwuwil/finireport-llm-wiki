@@ -5,6 +5,8 @@ domain: invest
 tags: [MLCC, 基板, ABF-substrate, 三星电机, SEMCO, 韩国半导体, J.P.Morgan, 上行周期, 涨价, AI服务器, 汽车MLCC, 被动元器件]
 created: 2026-04-21
 updated: 2026-04-21
+entities: [samsung-electro-mechanics]
+topics: [agentic-ai-infra, advanced-packaging]
 ---
 
 # 三星电机 SEMCO：MLCC/基板双升周期，J.P. Morgan 上调目标价至 W840k

@@ -5,6 +5,8 @@ domain: invest
 tags: [dynatrace, elastic, observability, aiops, search, security, goldman-sachs, software]
 created: 2026-04-23
 updated: 2026-04-23
+entities: [dynatrace, elastic]
+topics: [agentic-ai-infra]
 ---
 
 # Dynatrace与Elastic：AI时代可观测性与搜索平台投资价值

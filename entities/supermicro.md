@@ -4,7 +4,7 @@ type: entity
 domain: invest
 tags: [硬件, AI服务器, ODM, SMCI, 北美科技, 高风险]
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-24
 ---
 
 # Super Micro Computer Inc. (SMCI)
@@ -29,6 +29,6 @@ AI 服务器及高性能计算系统供应商，以液冷散热和快速产品�
 - **供应集中**：大部分 GPU 供应来自 NVIDIA，存在分配收紧风险
 - **低利润率**：毛利率 ~6-7%，远低于戴尔（~17-18%），抗风险能力弱
 
-## Appearances
+## Sources
 
-- [Dell & SMCI AI基础设施需求加速（Citi 2026-04）](../notes/dell-smci-ai-infra-citi-2026.md)
+- 2026-04-20 · Citi · [Dell & SMCI AI 基础设施需求加速](../notes/dell-smci-ai-infra-citi-2026.md)

@@ -5,6 +5,8 @@ domain: invest
 tags: [pcb, ccl, ai-infrastructure, wus, delton, shengyi, jefferies, china-semis, tam-analysis]
 created: 2026-04-23
 updated: 2026-04-23
+entities: [wus, delton, shengyi]
+topics: [advanced-packaging, agentic-ai-infra]
 ---
 
 # PCB/CCL：AI浪潮核心受益者，材料升级与技术创新驱动增长

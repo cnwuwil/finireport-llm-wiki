@@ -5,6 +5,8 @@ domain: invest
 tags: [Jentech, 精成科技, 散热器, heat-spreader, AI-GPU, NVIDIA, AMD, 台湾硬件, JPMorgan]
 created: 2026-04-21
 updated: 2026-04-21
+entities: [jentech]
+topics: [advanced-packaging]
 ---
 
 # Jentech 精成科技：下一代AI GPU散热器价值量持续提升（J.P. Morgan）

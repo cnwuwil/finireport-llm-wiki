@@ -8,6 +8,8 @@ updated: 2026-04-22
 source: sources/quant-reports/AI基础设施的资产负债表外承诺与潜在杠杆风险.md
 broker: Morgan Stanley
 date: 2026-04-15
+entities: [nvda, microsoft]
+topics: [agentic-ai-infra]
 ---
 
 # AI基础设施的资产负债表外承诺与潜在杠杆风险（Morgan Stanley）

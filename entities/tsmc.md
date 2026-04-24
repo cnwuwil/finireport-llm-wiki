@@ -5,7 +5,7 @@ domain: invest
 tags: [TSMC, 台积电, 2330.TW, TSM, 半导体, 晶圆代工, N2, N3, A14, CoWoS, SoIC, CoPoS, AI算力, HPC]
 aliases: [台积电, TSMC, TSM, 2330.TW]
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-04-24
 ---
 
 # 台积电（TSMC）
@@ -104,6 +104,7 @@ updated: 2026-04-23
 - 2026-04-16 · MS · [1Q26 业绩点评](../notes/tsmc-1q26-earnings-review-ms-2026.md)
 - 2026-04-16 · Nomura · [1Q26 指引上调](../notes/tsmc-1q26-guidance-raise-nomura-2026.md)
 - 2026-04-21 · GS · [All Ring & GPTC 先进封装设备](../notes/all-ring-gptc-advanced-packaging-gs-2026.md)（CoWoS 产能数据）
+- 2026-04-17 · JPM · [半导体 1Q26 前瞻](../notes/semis-1q26-preview-jpm-2026.md)
 
 ## Related
 
@@ -111,4 +112,3 @@ updated: 2026-04-23
 - [entities/all-ring](all-ring.md) _(待建)_ — CoWoS 设备供应商
 - [entities/gptc](gptc.md) _(待建)_ — SoIC 独家清洗设备供应商
 - [topics/ai-capex-2026](../topics/ai-capex-2026.md) _(待建)_ — AI 基础设施 Capex 主题
-- [notes/semis-1q26-preview-jpm-2026](../notes/semis-1q26-preview-jpm-2026.md)

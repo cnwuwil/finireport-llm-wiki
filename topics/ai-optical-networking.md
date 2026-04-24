@@ -5,7 +5,7 @@ domain: invest
 tags: [光通信, 光模块, 800G, 1.6T, 3.2T, CPO, OCS, 硅光子, SiPh, InnoLight, TFC, VPEC, AI数据中心]
 status: active
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-04-24
 ---
 
 # AI 光通信网络升级：800G → 1.6T → 3.2T + CPO + OCS
@@ -93,6 +93,7 @@ AI 算力密度的爆炸式增长（GPU 架构从 GB200 → GB300 → Rubin → 
 - 2026-04-17 · GS · [GS 720 摘要：光网络 TAM $154B](../notes/gs-720-digest-optical-robotaxi-mediatek-2026.md)
 - 2026-04-17 · GS · [AI 光通信 CPO/OCS 初始覆盖](../notes/optical-networking-cpo-ocs-gs-2026.md)
 - 2026-04 · Nomura · [OCS 光路交换：AI 网络核心](../notes/ocs-ai-network-china-optics-nomura-2026.md)
+- 2026-04-15 · Citi · [大立光 CPO/iPhone 短期业绩](../notes/largan-cpo-iphone-citi-2026.md)
 
 ## Related
 

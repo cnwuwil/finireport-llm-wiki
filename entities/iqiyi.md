@@ -4,7 +4,7 @@ type: entity
 domain: invest
 tags: [长视频, 流媒体, IP, AIGC, 出海, IQ, 中国互联网]
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-24
 ---
 
 # 爱奇艺 iQIYI Inc. (IQ)
@@ -34,6 +34,6 @@ updated: 2026-04-21
 3. 港股二次上市（进行中）
 4. 不自研大模型，用开源 + 公有云控成本
 
-## Appearances
+## Sources
 
-- [2026 世界大会要点（GS）](../notes/iq-world-conference-2026-gs.md)
+- 2026-04-21 · GS · [爱奇艺 2026 世界大会要点](../notes/iq-world-conference-2026-gs.md)

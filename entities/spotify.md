@@ -4,7 +4,7 @@ type: entity
 domain: invest
 tags: [流媒体, 音乐, 播客, 广告, SPOT, SaaS]
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-24
 ---
 
 # Spotify Technology S.A. (SPOT)
@@ -38,6 +38,6 @@ updated: 2026-04-21
 
 Spotify 在参与度（DAU/MAU）和时间份额上均遥遥领先，护城河显著。
 
-## Appearances
+## Sources
 
-- [Q1'26 业绩前瞻（GS）](../notes/spot-q1-2026-gs-preview.md)
+- 2026-04-15 · GS · [Spotify Q1'26 业绩前瞻](../notes/spot-q1-2026-gs-preview.md)

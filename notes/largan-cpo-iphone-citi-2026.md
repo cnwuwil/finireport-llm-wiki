@@ -8,6 +8,8 @@ updated: 2026-04-22
 source: sources/quant-reports/大立光：CPO机遇尚远，iPhone需求与可变光圈支撑短期业.pdf
 broker: Citi Research
 date: 2026-04-15
+entities: [largan, apple]
+topics: [ai-optical-networking]
 ---
 
 # 大立光：CPO机遇尚远，iPhone需求与可变光圈支撑短期业绩

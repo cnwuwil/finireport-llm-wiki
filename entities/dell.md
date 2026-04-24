@@ -4,7 +4,7 @@ type: entity
 domain: invest
 tags: [硬件, AI服务器, 存储, PC, 数据中心, DELL, 北美科技]
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-24
 ---
 
 # Dell Technologies Inc. (DELL)
@@ -33,6 +33,6 @@ updated: 2026-04-21
 - 企业客户渗透深，AI 服务器 4,000+ 账户且呈现重复采购行为
 - AI 服务器市场份额从 ~5%（2024）提升至 ~8%（2025），加速上行
 
-## Appearances
+## Sources
 
-- [Dell & SMCI AI基础设施需求加速（Citi 2026-04）](../notes/dell-smci-ai-infra-citi-2026.md)
+- 2026-04-20 · Citi · [Dell & SMCI AI 基础设施需求加速](../notes/dell-smci-ai-infra-citi-2026.md)

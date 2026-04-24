@@ -5,6 +5,8 @@ domain: invest
 tags: [微软, Microsoft, Azure, Copilot, M365, GenAI, 云计算, Morgan-Stanley, AI-基础设施, 数据中心, MSFT]
 created: 2026-04-21
 updated: 2026-04-21
+entities: [microsoft]
+topics: [agentic-ai-infra]
 ---
 
 # Microsoft 3Q26 业绩前瞻：Azure 容量约束、Copilot 平台化、Capex 上修

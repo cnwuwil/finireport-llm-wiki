@@ -5,6 +5,8 @@ domain: invest
 tags: [pcb, ccl, ai-infrastructure, taiwan-semis, emc, tuc, gce, zdt, iteq, goldman-sachs, price-hike]
 created: 2026-04-23
 updated: 2026-04-23
+entities: []
+topics: [advanced-packaging, agentic-ai-infra]
 ---
 
 # PCB/CCL行业：下半年价格有望进一步上涨，AI需求驱动产能扩张

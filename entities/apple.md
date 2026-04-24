@@ -5,7 +5,7 @@ domain: invest
 tags: [苹果, Apple, AAPL, iPhone, Mac, AI, Siri, WWDC, 折叠屏, 服务, 毛利率]
 aliases: [苹果, Apple, AAPL]
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-04-24
 ---
 
 # 苹果（Apple）
@@ -72,9 +72,9 @@ GS 和 MS 在 F2Q26 前瞻中整体一致（iPhone 超街、毛利率高于共�
 
 - 2026-04-20 · GS · [Apple F2Q26 前瞻（乐观）](../notes/apple-f2q26-preview-gs-2026.md)
 - 2026-04-20 · MS · [Apple F2Q26 前瞻（中性毛利率）](../notes/apple-f2q26-preview-iphone-wwdc-ms-2026.md)
+- 2026-04-15 · Citi · [大立光 CPO/iPhone 短期业绩](../notes/largan-cpo-iphone-citi-2026.md)
 
 ## Related
 
 - [topics/memory-supercycle-2026](../topics/memory-supercycle-2026.md) — DRAM/NAND 涨价是苹果毛利率最大短期压力
 - [entities/tsmc](tsmc.md) — A20（N2）+ A18（N3）先进制程唯一代工
-- [notes/largan-cpo-iphone-citi-2026](../notes/largan-cpo-iphone-citi-2026.md) — 大立光 iPhone 光学供应链

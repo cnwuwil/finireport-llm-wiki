@@ -8,6 +8,8 @@ updated: 2026-04-22
 source: sources/quant-reports/AI与经济转型：高AI暴露行业通过产出增长而非劳动力替代提升劳动生产率.md
 broker: Morgan Stanley
 date: 2026-04-20
+entities: []
+topics: [agentic-ai-infra]
 ---
 
 # AI与劳动生产率：高AI暴露行业靠产出增长而非裁员提升生产效率（Morgan Stanley）

@@ -8,6 +8,8 @@ updated: 2026-04-22
 source: sources/quant-reports/大中华区科技硬件：宏观不确定性会压制AI硬件前景吗？.pdf
 broker: Morgan Stanley
 date: 2026-04-16
+entities: []
+topics: [agentic-ai-infra]
 ---
 
 # 大中华区科技硬件：宏观不确定性会压制AI硬件前景吗？

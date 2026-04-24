@@ -8,6 +8,8 @@ updated: 2026-04-22
 source: sources/quant-reports/人工智能对利润池影响分析：全球自动驾驶交通案例研究.pdf
 broker: Goldman Sachs
 date: 2026-04-17
+entities: [waymo, tesla, uber]
+topics: []
 ---
 
 # AI对利润池影响分析（二）：全球自动驾驶交通案例研究

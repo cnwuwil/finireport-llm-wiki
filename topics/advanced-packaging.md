@@ -5,7 +5,7 @@ domain: invest
 tags: [先进封装, CoWoS, SoIC, CoPoS, CPO, 台积电, TSMC, AI算力, 封装设备, HPC]
 status: active
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-04-24
 ---
 
 # 先进封装：CoWoS / SoIC / CPO 扩产与投资主题
@@ -75,6 +75,14 @@ AI 算力密度的提升已超过单一芯片的物理极限，**先进封装成
 - 2026-04-16 · MS · [TSMC 1Q26 业绩点评](../notes/tsmc-1q26-earnings-review-ms-2026.md)
 - 2026-04-16 · Nomura · [TSMC 1Q26 指引上调](../notes/tsmc-1q26-guidance-raise-nomura-2026.md)
 - 2026-04-20 · MS · [大中华半导体 AI 芯片全景](../notes/greater-china-semis-ai-chips-ms-2026.md)
+- 2026-04-21 · JPM · [Jentech AI GPU 散热器价值量提升](../notes/jentech-ai-gpu-heat-spreader-jpm-2026.md)
+- 2026-04-21 · JPM · [SEMCO MLCC/基板双升周期](../notes/samsung-electro-mechanics-mlcc-upcycle-jpm-2026.md)
+- 2026-04-17 · JPM · [半导体 1Q26 前瞻](../notes/semis-1q26-preview-jpm-2026.md)
+- 2026-04-16 · MS · [半导体测试结构性上升周期](../notes/semis-testing-structural-upcycle-ms-2026.md)
+- 2026-04-16 · GS · [ASML EUV 产能与 AI 需求](../notes/asml-euv-ai-demand-gs-2026.md)
+- 2026-04-23 · GS · [PCB/CCL 涨价与 AI 需求驱动](../notes/pcb-ccl-price-hike-ai-demand-gs-2026.md)
+- 2026-04-23 · Jefferies · [PCB/CCL AI 受益初始覆盖](../notes/pcb-ccl-ai-beneficiaries-initiation-jefferies-2026.md)
+- 2026-04-23 · Citi · [中国工业 AI 基础设施与具身 AI](../notes/china-industrials-ai-infra-embodied-ai-citi-2026.md)
 
 ## Related
 

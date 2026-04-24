@@ -5,6 +5,8 @@ domain: invest
 tags: [servicenow, now, software, agentic-ai, workflow, jpm, enterprise-software, ai-adoption]
 created: 2026-04-23
 updated: 2026-04-23
+entities: [servicenow]
+topics: [agentic-ai-infra]
 ---
 
 # ServiceNow：一季度表现超预期，AI应用超越客服中心驱动增长

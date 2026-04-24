@@ -8,6 +8,8 @@ updated: 2026-04-22
 source: sources/quant-reports/AI叙事拐点未至，需求前景喜忧参半.md
 broker: UBS
 date: 2026-04-15
+entities: [gitlab]
+topics: [agentic-ai-infra]
 ---
 
 # GitLab：AI叙事拐点未至，需求前景喜忧参半（UBS）

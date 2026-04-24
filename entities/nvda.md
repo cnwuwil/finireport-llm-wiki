@@ -5,7 +5,7 @@ domain: invest
 tags: [NVIDIA, NVDA, GPU, CUDA, AI算力, Blackwell, Hopper, CoWoS, AI加速器, 数据中心]
 aliases: [英伟达, NVIDIA, NVDA]
 created: 2026-04-23
-updated: 2026-04-23
+updated: 2026-04-24
 ---
 
 # 英伟达（NVIDIA）
@@ -66,6 +66,8 @@ AI 算力时代的核心基础设施供应商，GPU + CUDA 生态形成双重护
 - 2026-04-20 · UBS · [GPU 架构 vs ASIC，WFE 超级周期](../notes/nvda-gpu-architecture-ecosystem-ubs-2026.md)
 - 2026-04-20 · MS · [大中华半导体 AI 芯片全景](../notes/greater-china-semis-ai-chips-ms-2026.md)（Rubin 客户 CoWoS 数据）
 - 2026-04-17 · GS · [全球光模块 800G+](../notes/global-optical-transceiver-800g-ai-gs-2026.md)（架构驱动光通信需求）
+- 2026-04-17 · JPM · [半导体 1Q26 前瞻](../notes/semis-1q26-preview-jpm-2026.md)
+- 2026-04-15 · MS · [AI 基础设施表外承诺与杠杆风险](../notes/ai-infra-off-balance-sheet-leverage-ms-2026.md)
 
 ## Related
 

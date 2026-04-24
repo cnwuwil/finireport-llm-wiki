@@ -8,6 +8,8 @@ updated: 2026-04-22
 source: sources/quant-reports/强劲AI需求与EUV产能提升，重申买入评级.pdf
 broker: Goldman Sachs
 date: 2026-04-16
+entities: [asml]
+topics: [advanced-packaging]
 ---
 
 # ASML：强劲AI需求与EUV产能提升，重申买入评级

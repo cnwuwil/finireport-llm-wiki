@@ -8,6 +8,8 @@ updated: 2026-04-22
 source: sources/quant-reports/中国互联网行业：即时零售投资趋缓与AI资本配置转折.md
 broker: Bernstein Research
 date: 2026-04-15
+entities: [alibaba, jd, meituan, tencent, pdd]
+topics: []
 ---
 
 # 中国互联网：即时零售投资趋缓，阿里AI资本再配置（Bernstein）

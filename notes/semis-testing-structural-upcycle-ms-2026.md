@@ -8,6 +8,8 @@ updated: 2026-04-22
 source: sources/quant-reports/AI驱动半导体测试进入结构性上升周期，看好探针卡，测试座与测.md
 broker: Morgan Stanley
 date: 2026-04-16
+entities: []
+topics: [advanced-packaging]
 ---
 
 # 半导体测试结构性上升周期：AI驱动测试强度提升，初始覆盖（Morgan Stanley）
